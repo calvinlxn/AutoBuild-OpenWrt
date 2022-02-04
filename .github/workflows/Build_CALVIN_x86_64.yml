@@ -12,9 +12,9 @@ on:
   release:
     types: [published]
 
-  #push:
-  #  branches: 
-  #    - develop
+  push:
+    branches: 
+      - develop
 
   #schedule:
   #  - cron: 0 3 * * SUN
