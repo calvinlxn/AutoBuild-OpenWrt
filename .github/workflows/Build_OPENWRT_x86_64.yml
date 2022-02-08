@@ -1,8 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: eSirPlayground
-# Youtube Channel: https://goo.gl/fvkdwm 
+# Author: Calvin Liu
 #=================================================
 
 name: Build_original_openwrt_x86_64
