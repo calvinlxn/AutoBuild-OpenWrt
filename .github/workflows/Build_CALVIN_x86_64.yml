@@ -15,8 +15,8 @@ on:
   #  branches:
   #    - develop
 
-  schedule:
-    - cron: 0 3 * * SUN
+  #schedule:
+  #  - cron: 0 3 * * SUN
 
   #watch:
   #  types: [started]
